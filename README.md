@@ -1,4 +1,6 @@
-# PortfolioProjects
-Following are my projects in SQL, Python, Tableau & Excel:
+# Portfolio Projects
+**Following are my projects in SQL, Python, Tableau & Excel:**
 
-You can take a look at my personal website :
+**_You can take a look at my personal website :_**
+
+**_You can also take a look at my Linkedin :_**
